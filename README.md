@@ -1,5 +1,13 @@
 # React + Vite
 
+sudo apt-get install nodejs
+sudo apt-get update
+sudo apt-get upgrade
+git clone https://github.com/Ahmed-M-Osman/q-chat-ui.git
+cd "path/to/clone"
+npm install
+npx tailwindcss init
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
