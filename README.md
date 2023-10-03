@@ -6,7 +6,6 @@
 - git clone https://github.com/Ahmed-M-Osman/q-chat-ui.git
 - cd "path/to/clone"
 - npm install
-- npx tailwindcss init
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
